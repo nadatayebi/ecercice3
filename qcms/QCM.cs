@@ -4,7 +4,7 @@ using System.Text;
 
 namespace qcms
 {
-    class QCM
+    class QCM : Questions
 
     {
     }
