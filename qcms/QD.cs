@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace qcms : Questions
+namespace qcms
 {
-    class QD
+    class QD : Questions
     {
     }
 }
